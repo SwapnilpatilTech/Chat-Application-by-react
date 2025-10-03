@@ -1,8 +1,10 @@
-<img src="https://github.com/SwapnilpatilTech/Chat-Application-by-react/blob/e01fc7b89c4da989a8601f18e5c513433a345286/Screenshot%202025-10-03%20201248.png" width="100%" />
+
 💬 Chat Application (React + Firebase)
 
 This is a real-time chat application built with React JS and Firebase.
 It allows users to send and receive messages instantly with authentication and live updates.
+
+<img src="https://github.com/SwapnilpatilTech/Chat-Application-by-react/blob/e01fc7b89c4da989a8601f18e5c513433a345286/Screenshot%202025-10-03%20201248.png" width="100%" />
 
 🚀 Features
 
@@ -23,12 +25,6 @@ Styling: CSS / TailwindCSS / Material-UI
 
 Deployment: Firebase Hosting / Vercel
 
-📂 Project Setup
-# Clone the repo
-git clone https://github.com/your-username/chat-app.git
-
-# Go into project folder
-cd chat-app
 
 # Install dependencies
 npm install
